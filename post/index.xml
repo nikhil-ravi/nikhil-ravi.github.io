@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Nikhil Ravi</title>
-    <link>https://example.com/post/</link>
-      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nikhil-ravi.github.io/post/</link>
+      <atom:link href="https://nikhil-ravi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nikhil Ravi</copyright>
     <image>
-      <url>https://example.com/img/icon-192.png</url>
+      <url>https://nikhil-ravi.github.io/img/icon-192.png</url>
       <title>Posts</title>
-      <link>https://example.com/post/</link>
+      <link>https://nikhil-ravi.github.io/post/</link>
     </image>
     
   </channel>

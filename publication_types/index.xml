@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Nikhil Ravi</title>
-    <link>https://example.com/publication_types/</link>
-      <atom:link href="https://example.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nikhil-ravi.github.io/publication_types/</link>
+      <atom:link href="https://nikhil-ravi.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nikhil Ravi</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/img/icon-192.png</url>
+      <url>https://nikhil-ravi.github.io/img/icon-192.png</url>
       <title>Publication_types</title>
-      <link>https://example.com/publication_types/</link>
+      <link>https://nikhil-ravi.github.io/publication_types/</link>
     </image>
     
     <item>
       <title>3</title>
-      <link>https://example.com/publication_types/3/</link>
+      <link>https://nikhil-ravi.github.io/publication_types/3/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication_types/3/</guid>
+      <guid>https://nikhil-ravi.github.io/publication_types/3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1</title>
-      <link>https://example.com/publication_types/1/</link>
+      <link>https://nikhil-ravi.github.io/publication_types/1/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication_types/1/</guid>
+      <guid>https://nikhil-ravi.github.io/publication_types/1/</guid>
       <description></description>
     </item>
     

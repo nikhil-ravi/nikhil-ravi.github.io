@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Angelia Nedić | Nikhil Ravi</title>
-    <link>https://example.com/authors/angelia-nedic/</link>
-      <atom:link href="https://example.com/authors/angelia-nedic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nikhil-ravi.github.io/authors/angelia-nedic/</link>
+      <atom:link href="https://nikhil-ravi.github.io/authors/angelia-nedic/index.xml" rel="self" type="application/rss+xml" />
     <description>Angelia Nedić</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nikhil Ravi</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/img/icon-192.png</url>
+      <url>https://nikhil-ravi.github.io/img/icon-192.png</url>
       <title>Angelia Nedić</title>
-      <link>https://example.com/authors/angelia-nedic/</link>
+      <link>https://nikhil-ravi.github.io/authors/angelia-nedic/</link>
     </image>
     
     <item>
       <title>A Case of Distributed Optimization in Adversarial Environment</title>
-      <link>https://example.com/publication/icassp-2019/</link>
+      <link>https://nikhil-ravi.github.io/publication/icassp-2019/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/icassp-2019/</guid>
+      <guid>https://nikhil-ravi.github.io/publication/icassp-2019/</guid>
       <description></description>
     </item>
     

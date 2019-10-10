@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Nikhil Ravi</title>
-    <link>https://example.com/authors/</link>
-      <atom:link href="https://example.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nikhil-ravi.github.io/authors/</link>
+      <atom:link href="https://nikhil-ravi.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nikhil Ravi</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/img/icon-192.png</url>
+      <url>https://nikhil-ravi.github.io/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://example.com/authors/</link>
+      <link>https://nikhil-ravi.github.io/authors/</link>
     </image>
     
     <item>
       <title>Anna Scaglione</title>
-      <link>https://example.com/authors/anna-scaglione/</link>
+      <link>https://nikhil-ravi.github.io/authors/anna-scaglione/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/authors/anna-scaglione/</guid>
+      <guid>https://nikhil-ravi.github.io/authors/anna-scaglione/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nathan G. Johnson</title>
-      <link>https://example.com/authors/nathan-g.-johnson/</link>
+      <link>https://nikhil-ravi.github.io/authors/nathan-g.-johnson/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/authors/nathan-g.-johnson/</guid>
+      <guid>https://nikhil-ravi.github.io/authors/nathan-g.-johnson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nikhil Ravi</title>
-      <link>https://example.com/authors/nikhil-ravi/</link>
+      <link>https://nikhil-ravi.github.io/authors/nikhil-ravi/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/authors/nikhil-ravi/</guid>
+      <guid>https://nikhil-ravi.github.io/authors/nikhil-ravi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shammya Saha</title>
-      <link>https://example.com/authors/shammya-saha/</link>
+      <link>https://nikhil-ravi.github.io/authors/shammya-saha/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/authors/shammya-saha/</guid>
+      <guid>https://nikhil-ravi.github.io/authors/shammya-saha/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Angelia Nedić</title>
-      <link>https://example.com/authors/angelia-nedic/</link>
+      <link>https://nikhil-ravi.github.io/authors/angelia-nedic/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/authors/angelia-nedic/</guid>
+      <guid>https://nikhil-ravi.github.io/authors/angelia-nedic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hoi To Wai</title>
-      <link>https://example.com/authors/hoi-to-wai/</link>
+      <link>https://nikhil-ravi.github.io/authors/hoi-to-wai/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/authors/hoi-to-wai/</guid>
+      <guid>https://nikhil-ravi.github.io/authors/hoi-to-wai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Raksha Ramakrishna</title>
-      <link>https://example.com/authors/raksha-ramakrishna/</link>
+      <link>https://nikhil-ravi.github.io/authors/raksha-ramakrishna/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/authors/raksha-ramakrishna/</guid>
+      <guid>https://nikhil-ravi.github.io/authors/raksha-ramakrishna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Manish Nagaraj</title>
-      <link>https://example.com/authors/manish-nagaraj/</link>
+      <link>https://nikhil-ravi.github.io/authors/manish-nagaraj/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/authors/manish-nagaraj/</guid>
+      <guid>https://nikhil-ravi.github.io/authors/manish-nagaraj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nagamani A N Rao</title>
-      <link>https://example.com/authors/nagamani-a-n-rao/</link>
+      <link>https://nikhil-ravi.github.io/authors/nagamani-a-n-rao/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/authors/nagamani-a-n-rao/</guid>
+      <guid>https://nikhil-ravi.github.io/authors/nagamani-a-n-rao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>V. K. Agrawal</title>
-      <link>https://example.com/authors/v.-k.-agrawal/</link>
+      <link>https://nikhil-ravi.github.io/authors/v.-k.-agrawal/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/authors/v.-k.-agrawal/</guid>
+      <guid>https://nikhil-ravi.github.io/authors/v.-k.-agrawal/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/authors/admin/</link>
+      <link>https://nikhil-ravi.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/authors/admin/</guid>
+      <guid>https://nikhil-ravi.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am a Ph.D. student in Electrical Engineering at Arizona State University, working in the &lt;a href=&#34;https://scaglione.engineering.asu.edu/&#34; target=&#34;_blank&#34;&gt;SINE lab&lt;/a&gt; under &lt;strong&gt;Professor Anna Scaglione&lt;/strong&gt;. My research is focused on dynamic multi-agent systems, in particular on developing Byzantine fault-tolerant decentralized optimization algorithms. Most recently, I have been working on distributed ledger infrastructure in Blockchain based Transactive Energy Systems; particularly focusing on ensuring Byzantine fault-tolerance in transactions over ledgers for power systems state verification.&lt;/p&gt;
 </description>
     </item>

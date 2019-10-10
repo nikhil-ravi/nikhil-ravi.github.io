@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nathan G. Johnson | Nikhil Ravi</title>
-    <link>https://example.com/authors/nathan-g.-johnson/</link>
-      <atom:link href="https://example.com/authors/nathan-g.-johnson/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nikhil-ravi.github.io/authors/nathan-g.-johnson/</link>
+      <atom:link href="https://nikhil-ravi.github.io/authors/nathan-g.-johnson/index.xml" rel="self" type="application/rss+xml" />
     <description>Nathan G. Johnson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nikhil Ravi</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/img/icon-192.png</url>
+      <url>https://nikhil-ravi.github.io/img/icon-192.png</url>
       <title>Nathan G. Johnson</title>
-      <link>https://example.com/authors/nathan-g.-johnson/</link>
+      <link>https://nikhil-ravi.github.io/authors/nathan-g.-johnson/</link>
     </image>
     
     <item>
       <title>Keeping Them Honest: a Trustless Multi-Agent Algorithm to Validate Transactions Cleared on Blockchain using Physical Sensors</title>
-      <link>https://example.com/publication/acc-2020/</link>
+      <link>https://nikhil-ravi.github.io/publication/acc-2020/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/acc-2020/</guid>
+      <guid>https://nikhil-ravi.github.io/publication/acc-2020/</guid>
       <description></description>
     </item>
     

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Nikhil Ravi</title>
-    <link>https://example.com/tags/</link>
-      <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nikhil-ravi.github.io/tags/</link>
+      <atom:link href="https://nikhil-ravi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nikhil Ravi</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/img/icon-192.png</url>
+      <url>https://nikhil-ravi.github.io/img/icon-192.png</url>
       <title>Tags</title>
-      <link>https://example.com/tags/</link>
+      <link>https://nikhil-ravi.github.io/tags/</link>
     </image>
     
     <item>
       <title>decentralized optimization;multi-agent systems;byzantine fault-tolerance;adversarial optimization;gradient-based metric</title>
-      <link>https://example.com/tags/decentralized-optimizationmulti-agent-systemsbyzantine-fault-toleranceadversarial-optimizationgradient-based-metric/</link>
+      <link>https://nikhil-ravi.github.io/tags/decentralized-optimizationmulti-agent-systemsbyzantine-fault-toleranceadversarial-optimizationgradient-based-metric/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/decentralized-optimizationmulti-agent-systemsbyzantine-fault-toleranceadversarial-optimizationgradient-based-metric/</guid>
+      <guid>https://nikhil-ravi.github.io/tags/decentralized-optimizationmulti-agent-systemsbyzantine-fault-toleranceadversarial-optimizationgradient-based-metric/</guid>
       <description></description>
     </item>
     
     <item>
       <title>adversarial optimization;decentralized optimization;data injection attacks;byzantine fault tolerance</title>
-      <link>https://example.com/tags/adversarial-optimizationdecentralized-optimizationdata-injection-attacksbyzantine-fault-tolerance/</link>
+      <link>https://nikhil-ravi.github.io/tags/adversarial-optimizationdecentralized-optimizationdata-injection-attacksbyzantine-fault-tolerance/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/adversarial-optimizationdecentralized-optimizationdata-injection-attacksbyzantine-fault-tolerance/</guid>
+      <guid>https://nikhil-ravi.github.io/tags/adversarial-optimizationdecentralized-optimizationdata-injection-attacksbyzantine-fault-tolerance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>data models;inference mechanisms;social interactions;social force model;non-linear graph filter;crowd-dynamics;IoT</title>
-      <link>https://example.com/tags/data-modelsinference-mechanismssocial-interactionssocial-force-modelnon-linear-graph-filtercrowd-dynamicsiot/</link>
+      <link>https://nikhil-ravi.github.io/tags/data-modelsinference-mechanismssocial-interactionssocial-force-modelnon-linear-graph-filtercrowd-dynamicsiot/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/data-modelsinference-mechanismssocial-interactionssocial-force-modelnon-linear-graph-filtercrowd-dynamicsiot/</guid>
+      <guid>https://nikhil-ravi.github.io/tags/data-modelsinference-mechanismssocial-interactionssocial-force-modelnon-linear-graph-filtercrowd-dynamicsiot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reversible logic;radix 4 multiplier</title>
-      <link>https://example.com/tags/reversible-logicradix-4-multiplier/</link>
+      <link>https://nikhil-ravi.github.io/tags/reversible-logicradix-4-multiplier/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/reversible-logicradix-4-multiplier/</guid>
+      <guid>https://nikhil-ravi.github.io/tags/reversible-logicradix-4-multiplier/</guid>
       <description></description>
     </item>
     
