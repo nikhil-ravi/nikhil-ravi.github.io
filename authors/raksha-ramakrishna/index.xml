@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raksha Ramakrishna | Nikhil Ravi</title>
+    <link>https://example.com/authors/raksha-ramakrishna/</link>
+      <atom:link href="https://example.com/authors/raksha-ramakrishna/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raksha Ramakrishna</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nikhil Ravi</copyright><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/img/icon-192.png</url>
+      <title>Raksha Ramakrishna</title>
+      <link>https://example.com/authors/raksha-ramakrishna/</link>
+    </image>
+    
+    <item>
+      <title>Network Inference and its Application to the Estimation of Crowd Dynamics from IoT Sensors</title>
+      <link>https://example.com/publication/spawc-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/spawc-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

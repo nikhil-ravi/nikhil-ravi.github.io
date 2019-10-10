@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anna Scaglione | Nikhil Ravi</title>
+    <link>https://example.com/authors/anna-scaglione/</link>
+      <atom:link href="https://example.com/authors/anna-scaglione/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anna Scaglione</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nikhil Ravi</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/img/icon-192.png</url>
+      <title>Anna Scaglione</title>
+      <link>https://example.com/authors/anna-scaglione/</link>
+    </image>
+    
+    <item>
+      <title>Keeping Them Honest: a Trustless Multi-Agent Algorithm to Validate Transactions Cleared on Blockchain using Physical Sensors</title>
+      <link>https://example.com/publication/acc-2020/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/acc-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection and isolation of adversaries in decentralized optimization for non-strongly  convex  objectives</title>
+      <link>https://example.com/publication/necsys-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/necsys-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Case of Distributed Optimization in Adversarial Environment</title>
+      <link>https://example.com/publication/icassp-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/icassp-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Inference and its Application to the Estimation of Crowd Dynamics from IoT Sensors</title>
+      <link>https://example.com/publication/spawc-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/spawc-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manish Nagaraj | Nikhil Ravi</title>
+    <link>https://example.com/authors/manish-nagaraj/</link>
+      <atom:link href="https://example.com/authors/manish-nagaraj/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manish Nagaraj</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nikhil Ravi</copyright><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/img/icon-192.png</url>
+      <title>Manish Nagaraj</title>
+      <link>https://example.com/authors/manish-nagaraj/</link>
+    </image>
+    
+    <item>
+      <title>Reversible Radix-4 booth multiplier for DSP applications</title>
+      <link>https://example.com/publication/spcom-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/spcom-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

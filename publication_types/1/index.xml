@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Nikhil Ravi</title>
+    <link>https://example.com/publication_types/1/</link>
+      <atom:link href="https://example.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nikhil Ravi</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/img/icon-192.png</url>
+      <title>1</title>
+      <link>https://example.com/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Detection and isolation of adversaries in decentralized optimization for non-strongly  convex  objectives</title>
+      <link>https://example.com/publication/necsys-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/necsys-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Case of Distributed Optimization in Adversarial Environment</title>
+      <link>https://example.com/publication/icassp-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/icassp-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Inference and its Application to the Estimation of Crowd Dynamics from IoT Sensors</title>
+      <link>https://example.com/publication/spawc-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/spawc-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reversible Radix-4 booth multiplier for DSP applications</title>
+      <link>https://example.com/publication/spcom-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/spcom-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
