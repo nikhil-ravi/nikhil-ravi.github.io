@@ -250,6 +250,7 @@ blockquote {
   .contact-icons {
     font-size: 2rem;
     a {
+      padding-right: 10pt;
       i::before {
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
